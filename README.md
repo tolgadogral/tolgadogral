@@ -19,5 +19,5 @@
 - Earn certificates from freeCodeCamp & Coursera  
 
  📫 Connect With Me
-- 🌐 [LinkedIn](#) (eklediğinde buraya link)  
-- ✉️ E-mail: [mail adresin]  
+- 
+- ✉️ E-mail: tlgadogral@gmail.com
