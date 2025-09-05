@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi, I'm Tolga
 
-<!--
-**tolgadogral/tolgadogral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Programming student  
+💻 Currently learning **Python, Java, and C++**  
+🌱 Interested in **Web Development, AI, and Arduino**  
+📂 Sharing my learning journey & projects here on GitHub  
 
-Here are some ideas to get you started:
+ 🚀 Skills & Learning
+- **Languages:** Python, Java, C++ (beginner → intermediate)  
+- **Web:** HTML, CSS, JavaScript (learning soon)  
+- **Tools:** Git, GitHub, VS Code  
+- **Other Interests:** Arduino, Algorithms, AI basics  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 📌 Current Goals
+- Improve in Python & OOP  
+- Build small web apps and projects  
+- Share progress consistently on GitHub  
+- Earn certificates from freeCodeCamp & Coursera  
+
+ 📫 Connect With Me
+- 🌐 [LinkedIn](#) (eklediğinde buraya link)  
+- ✉️ E-mail: [mail adresin]  
